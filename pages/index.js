@@ -112,6 +112,16 @@ const Home = () => {
             </a>
             <img src="/assets/calculator.png" />
           </div>
+          <div className="sm:w-1/2">
+            <a
+              href="https://twenty-five-plus-five-clock-woad.vercel.app/"
+              className="p-2 underline hover:no-underline text-blue-600 hover:text-blue-800"
+              target="_blank"
+            >
+              twenty-five-plus-five-clock
+            </a>
+            <img src="/assets/twenty-five-plus-five-clock.png" />
+          </div>
           <div>
             <div>
               <a
